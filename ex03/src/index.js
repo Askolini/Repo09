@@ -1,6 +1,5 @@
 function myEqualFunction(num) {
-    if(num) {
-        num === 23;
+    if(num === 23) {
         return "Equal";
     } 
         return "Not equal";
