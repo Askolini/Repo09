@@ -3,4 +3,7 @@ function myTrueBoolean() {
 }
 
 myTrueBoolean();
+
+console.log(myTrueBoolean());
+
 module.exports = myTrueBoolean;
