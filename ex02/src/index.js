@@ -1,3 +1,5 @@
+const myTrueBoolean = require("../../ex01/src");
+
 function myFunction(myParameter) {
     if(myParametar) {
         myFunction(true);
@@ -6,6 +8,5 @@ function myFunction(myParameter) {
     myFunction(false);
     return "The parameter is false!";
 }
-
 
 module.exports = myFunction;
