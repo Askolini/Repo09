@@ -20,8 +20,10 @@ function myForLoop2() {
         }
     }
     return evenInverseNumbers;
-}
 
+    myForLoop1();
+    myForLoop2();
+}
 
 console.log(myForLoop1());
 console.log(myForLoop2());
