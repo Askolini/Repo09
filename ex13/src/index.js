@@ -12,7 +12,6 @@ function inverseWhile() {
     }
     return fiveNumbers;
 
-    inverseWhile();
 }
 
 console.log(inverseWhile());
